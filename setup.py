@@ -3,7 +3,8 @@ import os
 
 from setuptools import setup, find_packages
 
-from mezzanine_meeting import __version__ as version
+from django_type_of_works import __version__ as version#fix
+
 
 install_requires = []
 
