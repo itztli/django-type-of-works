@@ -6,7 +6,7 @@ from setuptools import setup, find_packages
 from django_type_of_works import __version__ as version#fix
 
 
-install_requires = ["django >= 1.7, < 1.9"]
+install_requires = ["django >= 1.7, < 1.9",]
 
 try:
     setup(
