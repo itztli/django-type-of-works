@@ -1,0 +1,3 @@
+include CHANGELOG LICENSE README.rst
+recursive-include mezzanine_meeting *
+include mezzanine_meeting/templates/
